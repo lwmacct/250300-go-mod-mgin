@@ -1,0 +1,3 @@
+// package mgin
+
+package mgin
